@@ -1,17 +1,18 @@
-# Hydraulic Bascule Bridge: Design & Vibration Optimization 
+# Hydraulic Operated Movable Bridge System 
 
 ##  Project Overview
-[cite_start]This project focuses on the mechanical design of a **Bascule (Movable) Bridge** operated by a hydraulic system[cite: 22]. [cite_start]The primary goal was to design a robust transmission path while mitigating operational vibrations and noise[cite: 24, 26].
+This project involves the complete design and analysis of a hydraulic system used for operating a movable (bascule) bridge. The design covers everything from the fluid power transmission path to ensuring structural stability during motion.
 
-##  Engineering Tasks
-- [cite_start]**System Design:** Selected pumps and transmission lines for bridge opening/closing.
-- [cite_start]**Vibration Mitigation:** Analyzed pump-induced vibrations and proposed damping solutions[cite: 25].
-- [cite_start]**Noise Control:** Optimized hydraulic line routing to reduce noise generation during operation[cite: 26].
+## 🛠 Engineering & Design Tasks
+- **Hydraulic Circuit Design:** Selected appropriate pumps and transmission lines for efficient bridge opening and closing operations.
+- **Vibration Control:** Conducted detailed analysis of pump-induced vibrations and implemented damping solutions to protect the system.
+- **Noise Mitigation:** Optimized the routing of hydraulic lines to reduce noise generation during operation.
+- **Mechanical Safety:** Selected mechanical elements to ensure continuous and safe operation under load.
 
-##  Contents
-- [cite_start]`/CAD`: 3D Models and 2D engineering drawings[cite: 18].
-- `/Calculations`: Hydraulic circuit parameters and vibration analysis.
-- [cite_start]`/Reports`: Full technical documentation[cite: 21].
+##  Repository Structure
+- **`/CAD`**: 3D models and engineering drawings of the bridge and hydraulic layout.
+- **`/Analysis`**: Calculations for pump selection and transmission line sizing.
+- **`/Documentation`**: Technical reports detailing the design process.
 
-##  Skills Applied
-`Mechanical Power Systems` | `Hydraulics` | `SolidWorks` | `Vibration Analysis`
+##  Technical Skills Applied
+`Hydraulic Systems` | `Pump Selection` | `Vibration Damping` | `Mechanical Design`
