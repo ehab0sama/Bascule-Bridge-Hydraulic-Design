@@ -3,7 +3,7 @@
 ##  Project Overview
 This project involves the complete design and analysis of a hydraulic system used for operating a movable (bascule) bridge. The design covers everything from the fluid power transmission path to ensuring structural stability during motion.
 
-## 🛠 Engineering & Design Tasks
+##  Engineering & Design Tasks
 - **Hydraulic Circuit Design:** Selected appropriate pumps and transmission lines for efficient bridge opening and closing operations.
 - **Vibration Control:** Conducted detailed analysis of pump-induced vibrations and implemented damping solutions to protect the system.
 - **Noise Mitigation:** Optimized the routing of hydraulic lines to reduce noise generation during operation.
